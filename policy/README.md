@@ -1,19 +1,19 @@
-# Политика конфиденциальности Pixel
-- Здесь вы можете узнать, какие данные мы получаем от вас, как мы их используем и кому имеем право предоставить без вашего ведома.
+# Yoro Privacy Policy
+- Here you can find out what data we collect from you, how we use it and to whom we have the right to provide it without your knowledge.
 
-## Введение в политику
-- Ваши данные всегда остаются защищены командой разработчиков Pixel Community. Мы не передаём личную информацию 3-им лицам без вашего разрешения и не используем её в личных целях. При начале использования вами нашего бота, вы даёте своё личное согласие на то, что вы согласны на сбор информации и её использовании.
+## Introduction to Politics
+- Your data always remains protected by the Pixel Community development team. We do not transfer personal information to third parties without your permission and do not use it for personal purposes. When you start using our bot, you give your personal consent that you agree to the collection of information and its use.
 
-## Данные, которые мы собираем
-- Мы собираем всю информацию, предоставляемую платформой Discord во время того, как вы используете бота. Исключением из этого является ваш никнейм, имя пользователя и весь контент, отправляемый при помощи бота. Мы также собираем информацию с серверов, на которых присутствует бот. Также, мы отбираем все ваши использования команд.
+## Data we collect
+- We collect all information provided by the Discord platform while you are using the bot. The exception to this is your nickname, username, and all content sent using the bot. We also collect information from servers where the bot is present. Also, we collect all your command usages.
 
-## Использование информации
-- Мы используем ваши данные для улучшения функционала бота, а также для связи с вами и проверки соблюдения Политики и законодательств.
+## Use of information
+- We use your data to improve the functionality of the bot, as well as to communicate with you and verify compliance with the Policy and legislation.
 
-## Расспространение информации
-- Мы оставляем за собой право распространить информацию о вас, если это требует законодательство страны или любой другой высший государственный орган.
+## Dissemination of information
+- We reserve the right to disseminate information about you if required by the laws of the country or any other higher government body.
 
-## Хранение и доступ к информации
-- Мы храним вашу информацию до тех пор, пока она необходима для целей, изложенных в нашей Политике конфиденциальности. Хоть мы и пытаемся обеспечить полную безопасность данных, но гарантии на это дать не можем. Мы всегда оставляем вам следующие возможности:
-  * Удаление информации: Вы можете запросить удаление своей информации в любой момент, а мы в свою очередь рассмотрим это в соответствии с нашей Политикой.
-  * Запрос на получение информации: Вы можете запросить получение своей информации в любой момент, а мы в свою очередь рассмотрим это в соответствии с нашей Политикой.
+## Storage and access to information
+- We keep your information for as long as it is necessary for the purposes outlined in our Privacy Policy. Although we try to ensure complete data security, we cannot guarantee this. We always leave you the following options:
+ * Removal of Information: You may request the deletion of your information at any time, and we will consider this in accordance with our Policy.
+ * Request for Information: You can request to receive your information at any time, and we will consider this in accordance with our Policy.
