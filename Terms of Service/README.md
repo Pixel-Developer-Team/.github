@@ -1,4 +1,4 @@
-# Yoro Usage Policy
+# Yoro Terms of Service
 - Hello and thank you for choosing the Yoro bot for personal and public use! By using the "Yoro" bot, you agree to comply with our Policy and usage requirements. If you do not agree with our requirements and Policy, please stop using Pixel.
 - The main developer of the bot, as well as the main manager, reserve the right to change the Privacy Policy, Usage Policy and our personal requirements for using the bot at any time and without notifying about it.
 
