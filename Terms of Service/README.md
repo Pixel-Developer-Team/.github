@@ -1,27 +1,27 @@
-# Политика использования Pixel
-- Здравстуйте и спасибо, что выбрали бота Pixel для личного и общего пользования! При использовании бота "Pixel" вы даёте согласие на соблюдение нашей Политики и требований в использовании. Если вы не согласны с нашими требованиями и Политикой, просьба отказаться от использования "Pixel".
-- Главный разработчик бота, а также главный менеджер оставляют за собой право в любой момент изменить Политику Конфиденциальности, Политику Использования и наши личные требования по использованию бота и не оповестить об этом.
+# Yoro Usage Policy
+- Hello and thank you for choosing the Yoro bot for personal and public use! By using the "Yoro" bot, you agree to comply with our Policy and usage requirements. If you do not agree with our requirements and Policy, please stop using Pixel.
+- The main developer of the bot, as well as the main manager, reserve the right to change the Privacy Policy, Usage Policy and our personal requirements for using the bot at any time and without notifying about it.
 
-- Все права на управление интересами Pixel принадлежат только Helaney. На время использования нашего бота вы наделяетесь некими преимуществами, но мы в любой момент можем отозвать ваше положение.
+- All rights to manage Yoro's interests belong solely to Helaney. While using our bot, you are provided with certain advantages, but we can revoke your position at any time.
 
-## Правила использования Pixel
-1. Возрастное ограничение: Соответствуя документу (Discord ToS), вам необходимо быть 13-ти летнего возраста, чтобы пользоваться как платформой, так и нашим ботом.
-2. Законодательство: С момента начала использования вами нашего бота вы даёте согласие на то, что не собираетесь с помощью нашего бота нарушать законодательство как своей страны, так и законодательство, которому придерживается наш бот.
+## Rules for using Yoro
+1. Age limit: According to the document (Discord ToS), you must be 13 years of age to use both the platform and our bot.
+2. Legislation: From the moment you start using our bot, you agree that you are not going to use our bot to violate the laws of both your country and the laws to which our bot adheres.
 
-## Пользовательский контент
-1. Контент: Нашими требованиями вы обязываетесь не использовать Pixel в качестве субъекта для распространения незаконного контента, скам-ссылок, вирусов, контента оскорбительного, вульгарного и непристойного характера.
-2. Ответственность за контент: команда разработки "Pixel Community" не несёт ответственности за весь контент, который вы отправляете с помощью бота Pixel, это полностью ваша ответственность.
+## User Content
+1. Content: By our requirements, you agree not to use Yoro as a subject to distribute illegal content, scam links, viruses, offensive, vulgar and obscene content.
+2. Responsibility for content: The Pixel Community development team is not responsible for all content that you submit using the Yoro bot, it is entirely your responsibility.
 
-## Политика конфиденциальности
-- Ваши данные всегда находятся под тщательной защитой. Если вы хотите узнать, какие данные мы получаем от вас, можете ознакомиться с нашей Политикой конфиденциальности.
+## Privacy Policy
+- Your data is always carefully protected. If you want to know what data we collect from you, you can read our Privacy Policy.
 
-## Ограничения в использовании
-- Главный разработчик и главный менеджер Pixel оставляют за собой право в любой момент, без объяснения причины, отозвать у вас право на использование Pixel, особенно, если мы посчитаем, что вы нарушили наши требования или Политику.
+## Restrictions on use
+- The Chief Developer and General Manager of Yoro reserve the right to revoke your right to use Yoro at any time, without giving any reason, especially if we believe that you have violated our requirements or the Policy.
 
-## Применимое право
-- Наша политика и требования регулируются законодательством Европейского Союза, без учета принципов коллизионного права.
-- Напоминаем вам, что используя Pixel, вы даёте нам понять, что вы полностью ознакомлены с Политикой и требованиями и согласны их соблюдать в любой момент.
+## Applicable right
+- Our policies and requirements are governed by the laws of the European Union, without regard to conflict of law principles.
+- We remind you that by using Yoro, you indicate to us that you are fully aware of the Policy and requirements and agree to comply with them at all times.
 
-Остались вопросы по поводу политики или требования? Свяжитесь с нами здесь: pixelcommunity@yandex.ru
+Still have questions about a policy or requirement? Contact us here: pixelcommunity@yandex.ru
 
-Политика и требования действительны с момента: 09.07.2024 г.
+The policy and requirements are valid from: 07/09/2024.
