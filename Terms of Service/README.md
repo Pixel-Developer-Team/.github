@@ -1,5 +1,6 @@
 # Yoro Terms of Service
-- Hello and thank you for choosing the Yoro bot for personal and public use! By using the "Yoro" bot, you agree to comply with our Policy and usage requirements. If you do not agree with our requirements and Policy, please stop using Pixel.
+- Hello and thank you for choosing the Yoro bot for personal and public use! By using the "Yoro" bot, you agree to comply with our Policy and usage requirements. If you do not agree with our requirements and Policy, please stop using Yoro.
+
 - The main developer of the bot, as well as the main manager, reserve the right to change the Privacy Policy, Usage Policy and our personal requirements for using the bot at any time and without notifying about it.
 
 - All rights to manage Yoro's interests belong solely to Helaney. While using our bot, you are provided with certain advantages, but we can revoke your position at any time.
