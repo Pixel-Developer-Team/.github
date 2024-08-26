@@ -13,11 +13,14 @@
 1. Content: By our requirements, you agree not to use Yoro as a subject to distribute illegal content, scam links, viruses, offensive, vulgar and obscene content.
 2. Responsibility for content: The Pixel Community development team is not responsible for all content that you submit using the Yoro bot, it is entirely your responsibility.
 
+## Paid functionality
+- Yoro provides the ability to use neural networks to generate images or text queries. Of course, this functionality is not free and you need to pay to use these functions.
+
 ## Privacy Policy
 - Your data is always carefully protected. If you want to know what data we collect from you, you can read our Privacy Policy.
 
-## Restrictions on use
-- The Chief Developer and General Manager of Yoro reserve the right to revoke your right to use Yoro at any time, without giving any reason, especially if we believe that you have violated our requirements or the Policy.
+## Usage Restrictions
+- Yoro's CEO and General Manager reserve the right to revoke your right to use Yoro or a paid feature at any time without explanation if we believe you have violated our requirements or the Policy.
 
 ## Applicable right
 - Our policies and requirements are governed by the laws of the European Union, without regard to conflict of law principles.
